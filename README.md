@@ -1,5 +1,6 @@
 # location-co
-**Demo: https://location-co.web.app/ **
+**Demo: https://location-co.web.app/**
+
 MERN Fullstack Application - Users share locations with others
 
 This is a fullstack application that utilizes authentication, route guarding, image uploads, and React hooks (useContext, useReducer, and custom hooks) for state management. Supports all CRUD operations.
